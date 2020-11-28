@@ -1180,7 +1180,7 @@ finally:
 # Here is a basic, skeletal structure of a Try: and Except: block.
 # The 'Pass' statement ignores any empty code blocks, which are
 # not used for now. In this case, only the skeletal structure of the
-# program is clearly shown. Note:  you do not need to invoke the
+# program is clearly shown. Note: you do not need to invoke the
 # 'finally' statement into try: and Except: blocks, but they can be
 # quite handy when you want to show any output on the screen,
 # no matter the outcome of the program's execution/run.
