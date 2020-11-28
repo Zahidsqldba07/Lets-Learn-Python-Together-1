@@ -1,8 +1,7 @@
 '''Save the Python file as 'OS screen colours'''
 
-# There are also OS screen colours, which also colours text. However, the OS screen
-# These os screen colour codes colour individual text characters. See program examples
-# below.
+# There are OS screen colours, which colours text. These OS screen colour
+# codes colour individual text characters. See program examples below.
 
 import os
 os.system('')
