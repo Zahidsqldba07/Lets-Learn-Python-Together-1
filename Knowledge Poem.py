@@ -1,5 +1,4 @@
 import os
-from FileMenuExample import file_menu
 
 os.system('title J.C.R Soft~Choice')
 
@@ -28,7 +27,6 @@ For the heart and the mind hold the key to the greatest diploma of all,
 the dream’s creation of our imagination.
 For the heart and the mind are thus, the greatest teachers of us…
 Believe in yourself! For you are their greatest student.
-
 THIS BELONGS TO EVERY MAN, WOMAN AND CHILD
 Never give up your dream, no matter how far away it may seem to be, because that is when it is ever so
 close to becoming true. If you dream of something long enough and strong enough, your dream will come
@@ -52,7 +50,6 @@ class Knowledge:
     def jcr():
         print(f'{text_features[2]}{text_features[1]}{text_features[8]}{logo[0].upper()}{logo[1].title()}')
         input(text_info).lower().strip()
-        file_menu()
       
 Knowledge.ponder()
 Knowledge.jcr()
