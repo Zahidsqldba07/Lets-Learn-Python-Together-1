@@ -27,6 +27,7 @@ For the heart and the mind hold the key to the greatest diploma of all,
 the dream’s creation of our imagination.
 For the heart and the mind are thus, the greatest teachers of us…
 Believe in yourself! For you are their greatest student.
+
 THIS BELONGS TO EVERY MAN, WOMAN AND CHILD
 Never give up your dream, no matter how far away it may seem to be, because that is when it is ever so
 close to becoming true. If you dream of something long enough and strong enough, your dream will come
