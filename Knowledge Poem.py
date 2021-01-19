@@ -48,6 +48,7 @@ class Knowledge:
     def ponder():
         os.system(text_features[0])
         print(knowledge_poem)
+        
     def jcr():
         print(f'{text_features[2]}{text_features[1]}{text_features[8]}{logo[0].upper()}{logo[1].title()}')
         input(text_info).lower().strip()
