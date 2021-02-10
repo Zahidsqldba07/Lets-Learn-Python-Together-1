@@ -80,7 +80,7 @@ key is pressed instead of a number key.')
 # Now, put this very same program code above into a conditional while-loop and see
 # what happens when the user tries to type letters, instead of typing numbers for their
 # age. When the 'try:' statement is executed, the 'break' statement causes the
-# conditional while-loop to break out and the 'print' statement ('End of program') is
+# conditional while-loop to break out and the 'print' statement ('End of program.') is
 # then executed.
 
 name=input('\nWhat is your name please? ').lower().strip()
@@ -94,3 +94,5 @@ while True:
     except ValueError:
         print('\nThe \'try:\' and \'except ValueError:\' block executes/runs whenever a \
 letter key is pressed instead of a number key.')
+        
+print('End of program.')
