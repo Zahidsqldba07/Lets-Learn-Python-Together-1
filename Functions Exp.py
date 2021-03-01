@@ -15,10 +15,9 @@ for i in get_name:
 a,e='atom','electron'
 
 def science():
-    global a
-    global e
+    global a,e
     a,e='Albert','Einstein'
 
-#science() # comment out, or delete this function call statement.
+science() # comment out, or delete this function call statement.
     
 print(a,e)
