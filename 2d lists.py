@@ -1,6 +1,7 @@
 # Let's fully understand what a 2d list is truly all about.
 # A 2d list is a two dimensional array that can hold multiple
 # 2d list array values under a single variable. For example:
+#Author: zahidsqldba07
 
 my_2d_list=['2d list0'],['2d list0']
 
