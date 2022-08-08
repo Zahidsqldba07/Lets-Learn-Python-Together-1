@@ -6,6 +6,8 @@
 # advanced list and dictionary examples when I update my
 # Python book: "Python Programmer's Glossary Bible". Until
 # then, experiment with these list and dictionary examples.
+# Author: zahidsqldba07
+
 
 dictionary_list={
     'Animals':['Dog','Cat','Bird','Fish'],
