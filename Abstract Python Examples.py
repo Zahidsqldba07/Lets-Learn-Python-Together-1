@@ -3,6 +3,7 @@
 # Unpack multiple values, using just one, single "=" sign.
 # Not: You must use equal variables to equal values.
 
+#Author: Zahidsqldba07
 a,b,c=1,2,3
 
 print(a,b,c)
